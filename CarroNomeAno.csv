@@ -1,0 +1,216 @@
+manufacturer,cpuName,type
+AMD,Threadripper 3990X,Desktop
+AMD,Threadripper Pro 3995WX,Desktop
+AMD,Epyc 7702P,Desktop
+AMD,Threadripper 3970X,Desktop
+AMD,Threadripper Pro 3975WX,Desktop
+AMD,Threadripper 3960X,Desktop
+AMD,Threadripper 2990WX,Desktop
+AMD,Ryzen 9 5950X,Desktop
+Intel,Core i9 12900K,Desktop
+Intel,Core i9 12900KF,Desktop
+Intel,Core i9 12900KS,Desktop
+AMD,Threadripper Pro 3955WX,Desktop
+Intel,Core i9 9980XE,Desktop
+AMD,Ryzen 9 3950X,Desktop
+Intel,Core i9 10980XE,Desktop
+Intel,Core i7 12700K,Desktop
+Intel,Core i7 12700KF,Desktop
+AMD,Ryzen 9 5900X,Desktop
+Apple,M1 Ultra,Desktop
+AMD,Ryzen 9 5900,Desktop
+AMD,Threadripper 1950X,Desktop
+AMD,Threadripper 2950X,Desktop
+AMD,Ryzen 9 3900X,Desktop
+AMD,Ryzen 9 3900XT,Desktop
+Intel,Core i9 7980XE,Desktop
+Intel,Core i9 12900HK,Laptop
+Intel,Core i9 9960X,Desktop
+Intel,Core i5 12600KF,Desktop
+Intel,Core i9 10900KF,Desktop
+Intel,Core i5 12600K,Desktop
+Intel,Core i7 12700H,Laptop
+Intel,Core i9 12900H,Laptop
+Intel,Core i9 10940X,Desktop
+Intel,Core i9 11900KF,Desktop
+Intel,Core i7 12700,Desktop
+Intel,Core i9 11900K,Desktop
+Intel,Core i7 12800H,Laptop
+Intel,Core i9 10850K,Desktop
+Intel,Core i9 10920X,Desktop
+Intel,Core i9 9940X,Desktop
+Intel,Core i9 10900K,Desktop
+Intel,Core i9 7960X,Desktop
+Intel,Core i7 11700KF,Desktop
+Intel,Core i7 11700K,Desktop
+AMD,Ryzen 7 5800X3D,Desktop
+AMD,Threadripper 1920X,Desktop
+Intel,Core i9 9920X,Desktop
+AMD,Ryzen 9 6980HS,Laptop
+AMD,Ryzen 9 6980HX,Laptop
+Intel,Core i5 12500H,Laptop
+AMD,Ryzen 7 5800X,Desktop
+AMD,Ryzen 9 6900HX,Laptop
+Intel,Core i9 10900X,Desktop
+AMD,Ryzen 7 5700X,Desktop
+AMD,Ryzen 7 5700G,Desktop
+AMD,Ryzen 7 5800,Desktop
+Intel,Core i9 9900X,Desktop
+Intel,Core i9 11980HK,Laptop
+AMD,Ryzen 7 3800X,Desktop
+Intel,Core i7 7820X,Desktop
+Intel,Core i9 11900,Desktop
+Intel,Core i9 10900,Desktop
+Intel,Core i7 9800X,Desktop
+AMD,Ryzen 7 6800H,Laptop
+Intel,Core i9 11900F,Desktop
+Intel,Core i5 12500,Desktop
+AMD,Ryzen 7 Pro 4750G,Desktop
+AMD,Ryzen 9 6900HS,Laptop
+AMD,Ryzen 9 5900H,Laptop
+Intel,Core i9 9900KF,Desktop
+AMD,Ryzen 7 3800XT,Desktop
+AMD,Ryzen 9 5900HX,Laptop
+Intel,Core i9 9900KS,Desktop
+Intel,Core i7 10700K,Desktop
+Intel,Core i7 10700KF,Desktop
+Intel,Core i9 11950H,Laptop
+AMD,Ryzen 9 5980HS,Laptop
+AMD,Ryzen 9 5900HS,Laptop
+AMD,Ryzen 7 4700G,Desktop
+Intel,Core i9 10900T,Desktop
+AMD,Ryzen 7 6800HS,Desktop
+Intel,Core i9 9900K,Desktop
+Apple,M1 Max,Laptop
+Intel,Core i7 11850H,Laptop
+Intel,Core i7 10700F,Desktop
+Intel,Core i7 11800H,Laptop
+Intel,Core i9 9900,Desktop
+AMD,Ryzen 7 5800H,Laptop
+Apple,M1 Pro,Laptop
+Intel,Core i9 11900H,Laptop
+AMD,Ryzen 7 6800U​,Laptop
+AMD,Ryzen 7 3700X,Desktop
+Intel,Core i5 12400,Desktop
+Intel,Core i5 12400F,Desktop
+AMD,Ryzen 9 5980HX,Laptop
+Intel,Core i9 7900X,Desktop
+AMD,Ryzen 7 4700GE,Desktop
+AMD,Ryzen 9 4900H,Laptop
+Intel,Core i5 11600KF,Desktop
+AMD,Ryzen 5 5600,Desktop
+Intel,Core i5 11600K,Desktop
+AMD,Ryzen 5 5600G,Desktop
+AMD,Ryzen 7 4800H,Laptop
+Intel,Core i5 11600,Desktop
+AMD,Ryzen 5 5600X,Desktop
+Intel,Core i7 11700F,Desktop
+AMD,Ryzen 9 4900HS,Laptop
+Intel,Core i9 10900F,Desktop
+Intel,Core i7 11600H,Laptop
+AMD,Ryzen 5 5500,Desktop
+Intel,Core i9 10980HK,Laptop
+AMD,Ryzen 7 4800HS,Laptop
+AMD,Ryzen 7 5800HS,Laptop
+Intel,Core i5 10600K,Desktop
+Intel,Core i5 10600KF,Desktop
+Intel,Core i7 8086K,Desktop
+Intel,Core i9 9900T,Desktop
+Intel,Core i7 10700T,Desktop
+Intel,Core i5 11400F,Desktop
+AMD,Ryzen 7 2700X,Desktop
+AMD,Ryzen 5 5600H,Laptop
+Intel,Core i7 5960X,Desktop
+AMD,Ryzen 7 Pro 4750GE,Desktop
+Intel,Core i7 10870H,Laptop
+Intel,Core i5 11500,Desktop
+AMD,Ryzen 5 3600XT,Desktop
+Intel,Core i7 6950X,Desktop
+AMD,Ryzen 7 4800U,Laptop
+Intel,Core i7 1270P,Laptop
+Intel,Core i5 11500H,Laptop
+Intel,Core i5 11400,Desktop
+Intel,Core i7 9700K,Desktop
+Intel,Core i9 10885H,Laptop
+AMD,Ryzen 5 3600X,Desktop
+Intel,Core i5 11400H,Laptop
+AMD,Ryzen 5 4600G,Desktop
+AMD,Ryzen 7 1800X,Desktop
+Intel,Core i7 11700,Desktop
+AMD,Ryzen 5 Pro 4650G,Desktop
+Intel,Core i7 9700KF,Desktop
+Intel,Core i5 10600,Desktop
+AMD,Ryzen 5 3600,Desktop
+AMD,Ryzen 7 5700U,Laptop
+Intel,Core i5 11260H,Laptop
+AMD,Ryzen 5 4600HS,Laptop
+AMD,Ryzen 7 2700,Desktop
+Intel,Core i7 8700K,Desktop
+AMD,Threadripper 1900X,Desktop
+Intel,Core i7 10875H,Laptop
+AMD,Ryzen 7 1700X,Desktop
+Intel,Core i9 9880H,Laptop
+AMD,Ryzen 7 Pro 5850U,Laptop
+Intel,Core i7 10700,Desktop
+Intel,Core i7 9700,Desktop
+Intel,Core i7 9700F,Desktop
+Intel,Core i7 1260P,Laptop
+AMD,Ryzen 3 5300G,Desktop
+Intel,Core i9 9980HK,Laptop
+Intel,Core i3 12100F,Desktop
+Intel,Core i5 10500,Desktop
+Intel,Core i3 12100,Desktop
+AMD,Ryzen 5 4600U,Laptop
+AMD,Ryzen 7 2700E,Desktop
+AMD,Ryzen 7 5800U,Laptop
+AMD,Ryzen 7 1700,Desktop
+AMD,Ryzen 5 6600U,Laptop
+AMD,Ryzen 5 4600H,Laptop
+Intel,Core i5 10600T,Desktop
+Apple,M1,Laptop
+Intel,Core i5 10400F,Desktop
+AMD,Ryzen 5 5600U,Laptop
+Intel,Core i5 10400,Desktop
+Intel,Core i5 10500T,Desktop
+AMD,Ryzen 5 2600X,Desktop
+Intel,Core i7 10850H,Laptop
+AMD,Ryzen 7 4700U,Laptop
+Intel,Core i7 7800X,Desktop
+Intel,Core i7 6850K,Desktop
+Intel,Core i5 9600KF,Desktop
+Intel,Core i7 10750H,Laptop
+AMD,Ryzen 5 Pro 5650U,Laptop
+AMD,Ryzen 5 2600,Desktop
+AMD,Ryzen 5 5500U,Laptop
+Intel,Core i7 8700,Desktop
+Intel,Core i7 9850H,Laptop
+Intel,Core i9 8950HK,Laptop
+Intel,Core i7 9750H,Laptop
+Intel,Core i5 10400T,Desktop
+Intel,Core i5 10500H,Laptop
+Intel,Core i7 6800K,Desktop
+AMD,Ryzen 3 3300X,Desktop
+Intel,Core i5 8600K,Desktop
+Intel,Core i7 11375H,Laptop
+Intel,Core i5 9600K,Desktop
+AMD,Ryzen 5 1600X,Desktop
+Intel,Core i3 10320,Desktop
+Intel,Core i7 11390H,Laptop
+Intel,Core i5 9400F,Desktop
+AMD,Ryzen 5 1600,Desktop
+Intel,Core i7 1165G7,Laptop
+AMD,Ryzen 3 Pro 4350G,Desktop
+Intel,Core i5 9500,Desktop
+Intel,Core i3 10300,Desktop
+Intel,Core i7 1195G7,Laptop
+Intel,Core i7 8750H,Laptop
+Intel,Core i5 11320H,Laptop
+Intel,Core i7 10710U,Laptop
+Intel,Core i5 8400,Desktop
+Intel,Core i7 7700K,Desktop
+AMD,Ryzen 5 4500U,Laptop
+AMD,Ryzen 3 4300GE,Desktop
+Intel,Core i7 1185G7,Laptop
+Intel,Core i7 11370H,Laptop
+Intel,Core i3 10105F,Desktop
+AMD,Ryzen 3 3100,Desktop
